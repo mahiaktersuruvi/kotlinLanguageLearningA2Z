@@ -24,5 +24,26 @@
     }
 }
 */
+/*fun main() {
+    print("Enter your number: ") // User-ke bolche number dite
+
+    // readln() diye input neya hoy ebong .toInt() diye sheta integer-e convert kora hoy
+    val number = readln().toInt()
+
+    if (number > 80) {
+        println("Welcome, you have done well: $number")
+    } else {
+        println("You have to do more hardwork")
+    }
+}*/
+
+// Loop
+
+/*fun main(){
+    for (i in 1..5) {
+        println("roll number: $i")
+    }
+}*/
+
 
 
